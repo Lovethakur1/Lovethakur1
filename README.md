@@ -5,14 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Working on a full-stack app using React & Spring Boot
+
+🌱 Learning system design & advanced Spring Boot
+
+👯 Open to collaborating on web dev projects
+
+🤔 Need help with backend optimization
+
+💬 Ask me about React, Tailwind, Spring Boot
+
+📫 Reach me at: lovekeshthakur33@gmail.com / lovethakur.coder@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I cloned Telegram UI just for fun!
 
 ## 🔗 I am a FullStack Developer. 😊😊
 
